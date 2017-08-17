@@ -1,5 +1,5 @@
 # Baseball-Simulator
-Simulates a baseball game within the consol 
+Simulates a baseball game within the console 
 
 The user enters the name of 2 teams and the program will simulate a baseball game. 
 
